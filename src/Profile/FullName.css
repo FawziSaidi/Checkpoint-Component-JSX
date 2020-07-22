@@ -1,0 +1,13 @@
+.text{
+    
+    text-align: center;
+   
+    font-size: 40px;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
